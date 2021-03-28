@@ -1,0 +1,21 @@
+.navbar-link
+{
+    color: #fff !important;
+    font-style: italic;
+    padding: 0 0  5px 0;
+
+}
+.navbar-link:hover
+{
+    color: #fff !important;
+    background:#000;
+    font-size: 18px;
+
+
+}
+
+.cr-image{
+
+    width: 100%;
+    background: transparent;
+}
